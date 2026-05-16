@@ -1,0 +1,64 @@
+filename=   saves/obrazek na scianB.txt
+Colors= 31
+Black
+50 50 50
+Dark Gray
+118 118 118
+Gray
+186 186 186
+White
+255 255 255
+Crimson
+220 20 60
+Red
+255 0 0
+Dark Red
+139 0 0
+Pink
+255 192 203
+Hot Pink
+255 105 180
+Orange
+255 165 0
+Dark Orange
+255 140 0
+Tomato
+255 99 71
+Lavender
+230 230 250
+Violet
+238 130 238
+Magenta
+255 0 255
+Med Purple
+147 112 219
+Rebecca
+102 51 153
+Purple
+128 0 128
+Gold
+255 215 0
+Yellow
+255 255 0
+Khaki
+240 230 140
+YellowGreen
+154 205 50
+PaleGreen
+152 251 152
+Green
+50 205 50
+DarkGreen
+0 128 0
+Cornsilk
+255 248 220
+BurlyWood
+142 92 37
+SaddleBrown
+82 53 22
+SkyBlue
+135 206 235
+Blue
+0 146 224
+DarkBlue
+0 86 224
